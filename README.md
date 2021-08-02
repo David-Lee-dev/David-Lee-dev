@@ -36,3 +36,18 @@ Language
 ### 💫 Experience
 
 - **SSAFY** - Samsung SW Academy For Youth 6th (Web Full-Stack Course) (Jul 2021 ~ Jun 2022) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+
+## Github Stats
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=JeongHwan-dev&show_icons=true&count_private=true&theme=react" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHwan-dev&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table>
+
+
