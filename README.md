@@ -22,8 +22,11 @@ If you want to contact me, please leave me a message!
 <br />
 
 ### 🛠 Tech Stack
+**Front-end**
 
-Language
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=white)](https://github.com/JeongHwan-dev/javascript-guide)
+
+**Back-end**
 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
 - ![Flask](https://img.shields.io/badge/-Flask-333?&logo=flask&logoColor=white) 
