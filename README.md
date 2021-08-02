@@ -13,7 +13,7 @@
 
 Good day!
 
-I am studying to be a Front-end developer.
+I am studying to be a Full-stack developer.
 
 If you want to contact me, please leave me a message!
 
