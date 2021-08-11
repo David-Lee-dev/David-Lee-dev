@@ -46,10 +46,10 @@ If you want to contact me, please leave me a message!
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=JOOHYEON123&show_icons=true&count_private=true&theme=react" align="left" style="width: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=David-Lee-dev&show_icons=true&count_private=true&theme=react" align="left" style="width: 100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOOHYEON123&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Lee-dev&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
     </td>
   </tr>
 </table>
