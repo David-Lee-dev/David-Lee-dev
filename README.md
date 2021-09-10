@@ -18,7 +18,8 @@ I am studying to be a Full-stack developer.
 If you want to contact me, please leave me a message!
 
 :email: aganga7427@gmail.com
-blog : ()[https://velog.io/@main_string]
+<br>
+blog : https://velog.io/@main_string
 
 <br />
 
