@@ -30,7 +30,7 @@ blog : https://velog.io/@main_string
 
 **Back-end**
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-333?&logo=flask&logoColor=white) ![](https://img.shields.io/badge/-Django-092E20?&logo=django&logoColor=white) 
+- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-333?&logo=flask&logoColor=white) ![](https://img.shields.io/badge/-Django-092E20?&logo=django&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
 
 **ETC**
 
