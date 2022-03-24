@@ -19,7 +19,7 @@ If you want to contact me, please leave me a message!
 
 :email: aganga7427@gmail.com
 <br>
-blog : https://velog.io/@main_string
+blog : https://ju-hyeon-dev.tistory.com/
 
 <br />
 
