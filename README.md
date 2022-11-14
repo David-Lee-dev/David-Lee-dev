@@ -13,13 +13,13 @@
 
 Good day!
 
-I am studying to be a Front-end developer.
+I am studying to be a developer.
 
 If you want to contact me, please leave me a message!
 
 :email: aganga7427@gmail.com
 <br>
-blog : http://www.im-dev-lee.site/
+blog : http://im-dev-lee.site/
 
 <br />
 
