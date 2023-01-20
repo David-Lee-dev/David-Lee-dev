@@ -4,19 +4,6 @@
   </a>
 </div> 
 
-
-
-
-## Hi there 👋
-
-### Hello, I'm Juhyeon Lee
-
-Good day!
-
-I am studying to be a developer.
-
-If you want to contact me, please leave me a message!
-
 :email: aganga7427@gmail.com
 <br>
 blog : http://im-dev-lee.site/
