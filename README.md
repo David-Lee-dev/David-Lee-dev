@@ -12,7 +12,7 @@ blog : http://im-dev-lee.site/
 
 ### 🛠 Tech Stack
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white) ![Django](https://skills.thijs.gg/icons?i=django)
+- ![Python](https://skills.thijs.gg/icons?i=python) ![Django](https://skills.thijs.gg/icons?i=django)
 - ![JavaScript](https://skills.thijs.gg/icons?i=javascript) ![Express](https://skills.thijs.gg/icons?i=express) ![React](https://skills.thijs.gg/icons?i=react) ![Next](https://skills.thijs.gg/icons?i=next)
 
 ### 💫 Experience
