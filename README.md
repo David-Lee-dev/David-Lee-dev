@@ -6,7 +6,7 @@
 
 :email: aganga7427@gmail.com
 <br>
-blog : http://im-dev-lee.site/
+blog : 
 
 <br />
 
