@@ -4,34 +4,18 @@
   </a>
 </div> 
 
-:email: aganga7427@gmail.com
-<br>
-blog : 
+[좋은 구조]()를 설계하기 위해 고민하는 개발자 이주현입니다.<br/>
+[백엔드 시스템]()과 [개발 환경]()에 관심을 두고 있습니다.
 
-<br />
+### 👨🏻‍💻 career
 
-### 🛠 Tech Stack
+- **Birdview**
+  - Core platform Engineer(intern) (2023.01. ~ 2023.03.)
+  - Back-end Developer(intern) (2023.03. ~ 2023.07.)
+- Squarezero
+  - Web Developer (2023.10. ~ ing)
 
-- ![Python](https://skills.thijs.gg/icons?i=python) ![Django](https://skills.thijs.gg/icons?i=django)
-- ![JavaScript](https://skills.thijs.gg/icons?i=javascript) ![Express](https://skills.thijs.gg/icons?i=express) ![React](https://skills.thijs.gg/icons?i=react) ![Next](https://skills.thijs.gg/icons?i=next)
 
-### 💫 Experience
+### 📚 Experience
 
-- **SSAFY** - Samsung SW Academy For Youth 6th (Web Full-Stack Course) (Jul 2021 ~ Jun 2022) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
-
-### career
-
-- **Birdview intern** (Jan 2023 ~ )
-
-## Github Stats
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=David-Lee-dev&show_icons=true&count_private=true&theme=react" align="left" style="width: 100%" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Lee-dev&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
-    </td>
-  </tr>
-</table>
+- **SSAFY** - Samsung SW Academy For Youth 6th (2021.07. ~ 2022.04.) [🔗](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
