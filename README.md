@@ -9,11 +9,11 @@
 
 ### 👨🏻‍💻 career
 
+- Squarezero
+  - Web Developer (2023.10. ~ ing)
 - **Birdview**
   - Core platform Engineer(intern) (2023.01. ~ 2023.03.)
   - Back-end Developer(intern) (2023.03. ~ 2023.07.)
-- Squarezero
-  - Web Developer (2023.10. ~ ing)
 
 
 ### 📚 Experience
