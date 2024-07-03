@@ -9,9 +9,11 @@
 
 ### 👨🏻‍💻 career
 
+- Hotseller
+  - Back-end Developer (2024.07. ~ ing)
 - Squarezero
-  - Web Developer (2023.10. ~ ing)
-- **Birdview**
+  - Web Developer (2023.10. ~ 2024.04.)
+- Birdview
   - Core platform Engineer(intern) (2023.01. ~ 2023.03.)
   - Back-end Developer(intern) (2023.03. ~ 2023.07.)
 
